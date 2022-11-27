@@ -10,7 +10,7 @@ Personal repositories kept directly under the **saltybrackets** profile are eith
 Repositories kept in the SaltyCog organization are generally intended for public consumption because they provide some utility, and most likely to be maintained/updated. These include things like non-game applications, game mods, and general libraries/frameworks.
 
 ## [Primitive Concept: Games and Gamejam Entries](https://github.com/primitiveconcept)
-For archiving gamejam entries and game prototypes; unlikely to be maintained or updated. Full games I've worked on are either kept private, or belong to other entities.
+For archiving gamejam entries and game prototypes; individual repos unlikely to be maintained or updated, but new repos get added fairly regularly. Full games I've worked on are either kept private, or belong to other entities.
 
 
 <!--
