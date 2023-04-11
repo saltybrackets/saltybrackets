@@ -2,7 +2,7 @@
 
 # Organizations
 
-Repositories regularly get sorted into peronsal Github organizations for ease of searching.
+Repositories regularly get sorted into personal Github organizations for ease of searching.
 
 Personal repositories kept directly under the **saltybrackets** profile are either very new (and so haven't been sorted yet), or are purely for personal research/education. Do not expect them to be regularly maintained, or even to stick around (as they'll either be moved, made private for archiving, or outright deleted).
 
