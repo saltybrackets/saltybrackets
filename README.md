@@ -1,6 +1,6 @@
 :x: **Availability:** Unavailable -- _Currently employed full-time_
 
-# Organization
+# Repo Organization
 
 Repositories regularly get sorted into personal Github organizations for ease of searching.
 
