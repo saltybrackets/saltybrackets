@@ -1,4 +1,4 @@
-Checking my contribution activity like a chump? It ain't here, chief -- you want my corporate Github account, and I can't share that.
+Checking my contribution activity? It ain't here, chief -- you want my corporate Github account, and I can't share that.
 
 # Repo Organization
 
